@@ -16,7 +16,11 @@
 ## Screenshots: 
     
 
-<img width="1106" alt="image" src="https://user-images.githubusercontent.com/6320674/187569826-90dbf076-a60f-4148-aebe-032c22aff560.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/6320674/187569826-90dbf076-a60f-4148-aebe-032c22aff560.png">
+
+<img width="86" alt="image" src="https://user-images.githubusercontent.com/6320674/187570522-215dbf35-241c-423e-9399-f50c5005b380.png">
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/6320674/187570544-1e00853e-3772-4624-b336-169d1574234b.png">
 
 
 
