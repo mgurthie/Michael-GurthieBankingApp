@@ -4,7 +4,7 @@
 
 
 ## Description/Motivation: 
-    The reasons why this project exists, including the answers to pertinent questions such as whom does it help, why did you build it, and what business or personal problem does it solve.
+    This project exists, as an assignment for the December 2021 MIT Full Stack MERN class.
 
 
 
@@ -14,7 +14,9 @@
 
 
 ## Screenshots: 
-    Screenshots or a GIF of your project in action.
+    
+
+<img width="1106" alt="image" src="https://user-images.githubusercontent.com/6320674/187569826-90dbf076-a60f-4148-aebe-032c22aff560.png">
 
 
 
