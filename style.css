@@ -1,0 +1,65 @@
+.outer {
+  margin-left: 0px;
+  margin-right: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 20vh;
+}
+
+.main-container {
+  height: 80vh;
+}
+
+.navbar {
+  padding-left: 20px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.table {
+  color: #0ae1e9;
+}
+
+.card-a {
+  width: 22rem;
+  height: 32rem;
+  background-color: transparent;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-top: 50px; /* Added */
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Background styles */
+body {
+  background-position: center;
+}
+
+/* Glassmorphism card effect */
+.card {
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(70, 66, 66, 0.1);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+}

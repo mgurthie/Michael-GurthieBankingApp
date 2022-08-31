@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "thekalinga.bootstrap4-vscode",
+        "mgmcdermott.vscode-language-babel",
+        "zignd.html-css-class-completion",
+        "sburg.vscode-javascript-booster",
+        "xabikos.javascriptsnippets",
+        "pranaygp.vscode-css-peek",
+        "christian-kohler.path-intellisense",
+        "wallabyjs.quokka-vscode",
+        "tomoki1207.pdf",
+        "esbenp.prettier-vscode"
+    ]
+}
