@@ -9,7 +9,11 @@
 
 
 ## Installation Guidelines:
-    Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
+    1 - Clone Repo
+    2 - Run NPM Install
+    3 - Spin up a local http client
+    4 - Navigate to  Local Host http://127.0.0.1:5501/index.html#/
+    
 
 
 
